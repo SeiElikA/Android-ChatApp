@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047381883142",
+    "project_id": "websocket-8c464",
+    "storage_bucket": "websocket-8c464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047381883142:android:71d1a4ba22ff6918c54687",
+        "android_client_info": {
+          "package_name": "edu.wschina.bubblesexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047381883142-jp76039bn8ar19tj8a769lfsjd4r8ecc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_cQxgXUNk3LiWPATOC1H53CwdQ-yQ0WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047381883142-jp76039bn8ar19tj8a769lfsjd4r8ecc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
